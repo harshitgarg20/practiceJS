@@ -1,0 +1,35 @@
+.wrapper{
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+}
+ul{
+    list-style:none;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: left;
+}
+li{
+    border: solid;
+    margin-bottom: 2px;
+    padding: 15px;
+}
+.bigger { font-size:300%; }
+
+.red{
+    background-color: red;
+}
+
+.ongoing{
+    background-color: yellow;
+}
+.done{
+    background-color: green;
+}
+#but{
+    border: solid;
+    margin: 20px;
+    padding: 20px;
+    margin-right: 500px;
+    margin-left: 500px;
+    
+}
